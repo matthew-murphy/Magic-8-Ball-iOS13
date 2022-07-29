@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Magic 8 Ball in Magic 8 Ball, no dependencies
